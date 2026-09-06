@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshiverma1209/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/priyanshiverma1209/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/priyanshiverma1209/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/priyanshiverma1209/LeetCode/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/priyanshiverma1209/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/priyanshiverma1209/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
